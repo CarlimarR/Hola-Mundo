@@ -1,0 +1,18 @@
+/* estilos.css */
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #f0f8ff; /* Fondo azul claro */
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #fe7f00; /* Color rojo coral */
+    font-size: 3em;
+}
+
+p {
+    color: #00da36; /* Color verde oscuro */
+    font-size: 1.5em;
+    font-weight: bold;
+}
